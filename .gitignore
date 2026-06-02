@@ -1,0 +1,14 @@
+# Fichiers de compilation et binaires
+Debug/
+Release/
+*.o
+*.su
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Fichiers locaux de l'IDE
+.settings/
